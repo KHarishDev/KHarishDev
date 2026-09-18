@@ -16,8 +16,8 @@ From Internet World 🌐</b>
 **➛ Age : Just 17 Years Kiddo**  
 
 ## Awards
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Awesome-Prince&label=Profile%20views&color=0e75b6&style=flat" alt="Awesome-Prince" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Awesome-Prince" alt="Awesome-Prince" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KHarishDev&label=Profile%20views&color=0e75b6&style=flat" alt="KHarishDev" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KHarishDev" alt="KHarishDev" /></a> </p>
 
 ## **Coding Time & Lines Of Codes**
 
@@ -72,6 +72,6 @@ From Internet World 🌐</b>
 
 
 # Stats
-<p align="center"><a href="https://github.com/Awesome-Prince"><img src="https://github-readme-stats.vercel.app/api?username=Awesome-Prince&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Awesome-Prince"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesome-Prince&theme=radical&layout=compact">
+<p align="center"><a href="https://github.com/KHarishDev"><img src="https://github-readme-stats.vercel.app/api?username=KHarishDev&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/KHarishDev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHarishDev&theme=radical&layout=compact">
 </a></p>   
