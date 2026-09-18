@@ -13,7 +13,7 @@
 <!--- About me-->
 ## About Me:  
 
-👋 Hi, I'm **Harish**, an tech enthusiastic student with curiousity. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
+👋 Hi, I'm **Harish**, an tech enthusiastic student with curiousity. Passionate about **software development, web technologies.** I love building projects that solve real-world problems.  
 
 ### What I Do:  
 - 💻 **Proficient in:** Python, DSA, HTML, CSS, JavaScript, React  
