@@ -71,7 +71,19 @@ From Internet World 🌐</b>
 <a href="https://www.digitalocean.com/?refcode=ca821556e751&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 
-# Stats
-<p align="center"><a href="https://github.com/KHarishDev"><img src="https://github-readme-stats.vercel.app/api?username=KHarishDev&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/KHarishDev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHarishDev&theme=radical&layout=compact">
-</a></p>   
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=DivyashreeR008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DivyashreeR008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyashreeR008&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+
+
+--- 
