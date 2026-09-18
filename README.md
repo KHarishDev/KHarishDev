@@ -11,8 +11,7 @@ From Internet World 🌐</b>
 
  **About Me:-**
 
-**➛ I’m a student dev**
-➛ Contact Me : DarlingPrince@protonmail.com   
+**➛ I’m a student dev** 
 **➛ Age : Just 17 Years Kiddo**  
 
 ## Languages
