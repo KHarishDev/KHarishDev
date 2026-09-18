@@ -11,9 +11,8 @@ From Internet World 🌐</b>
 
  **About Me:-**
 
-**➛ I’m Currently Working Alone**
-**➛ I’m Looking For A Best Friend Who Helpes Me On My Work**      
-**➛ I'm Currently Concentrating My Studies**
+**➛ I’m a student dev**
+
 **➛ Contact Me :** DarlingPrince@protonmail.com   
 **➛ Age : Just 17 Years Kiddo**  
 
