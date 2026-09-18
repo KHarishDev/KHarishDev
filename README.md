@@ -4,7 +4,6 @@
   </tr>
 </table>
 
-<![KHarishDev]()>
 # Hi there 👋, I'm Harish
 
 <b>Hola Hola, I'm Harish, A Developer 💻;
