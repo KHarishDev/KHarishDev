@@ -76,12 +76,12 @@ From Internet World 🌐</b>
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=DivyashreeR008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DivyashreeR008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=KHarishDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KHarishDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyashreeR008&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHarishDev&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 
