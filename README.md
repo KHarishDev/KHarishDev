@@ -1,18 +1,27 @@
-<table>
-  <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
-  </tr>
-</table>
+<!--Header Name GIF or Animation-->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Harish;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
-# Hi there 👋, I'm Harish
 
-<b>A Developer 💻;
-From Internet World 🌐</b>
+<!--GIF -->
+<div style="display: flex; justify-content: flex-end;">
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"   />    
+</div>
 
- **About Me:**
-<br>**➛ I’m a student dev** </br>
-**➛ Email:** DarlingPrince@protonmail.com  
-**➛ Age : Just 17 Years Kiddo**  
+
+<!--- About me-->
+## About Me:  
+
+👋 Hi, I'm **Harish**, an tech enthusiastic student with curiousity. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
+
+### What I Do:  
+- 💻 **Proficient in:** Python, DSA, HTML, CSS, JavaScript, React  
+- 🔍 **Passionate about:** Web Development, API Integration  
+
+### Looking For:  
+- 💼 Exciting **development opportunities & tech collaborations**  
+- 📖 Learning **new technologies** and staying updated with industry trends  
 
 ## Languages
 
