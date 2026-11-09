@@ -17,7 +17,7 @@
 
 ### What I Do:  
 - 💻 **Proficient in:** Python, DSA, HTML, CSS, JavaScript, React  
-- 🔍 **Passionate about:** Web Development, API Integration  
+- 🔍 **Passionate about:** Web Development, Software Development, API Integration  
 
 ### Looking For:  
 - 💼 Exciting **development opportunities & tech collaborations**  
